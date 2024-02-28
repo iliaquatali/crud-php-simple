@@ -1,4 +1,4 @@
-create database test;
+create database phpcrud;
 
 use test;
 
